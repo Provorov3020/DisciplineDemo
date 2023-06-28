@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Discipline>
+    <ID>5</ID>
+    <Titleofdiscipline>History</Titleofdiscipline>
+    <Numberofsemester>2</Numberofsemester>
+    <Typeofattestation>Test</Typeofattestation>
+    <FIOteacher>Tancevova</FIOteacher>
+    <Volumeinhours>36</Volumeinhours>
+</Discipline>
